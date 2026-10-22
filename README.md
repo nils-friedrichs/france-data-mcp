@@ -6,7 +6,7 @@
 [![CI](https://github.com/cturkieh/france-data-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/cturkieh/france-data-mcp/actions)
 [![MCP](https://img.shields.io/badge/MCP-live-success)](https://france-data-mcp.vercel.app/mcp)
 [![npm](https://img.shields.io/npm/v/france-data-mcp.svg)](https://www.npmjs.com/package/france-data-mcp)
-[![smithery badge](https://smithery.ai/badge/cturkieh/france-data)](https://smithery.ai/servers/cturkieh/france-data)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.cturkieh/france-data-mcp)](https://lightnow.ai/servers/io.github.cturkieh/france-data-mcp)
 
 🇫🇷 Documentation principale en français. [English version →](README.en.md)
 
